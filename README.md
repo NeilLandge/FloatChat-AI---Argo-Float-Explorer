@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%252B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28%252B-red)](https://streamlit.io/)
-[![RAG](https://img.shields.io/badge/RAG-AI-powered-orange)](#)
+[![RAG](https://img.shields.io/badge/RAG-AI--powered-orange)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Overview
