@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database / temporary files
+*.sqlite3
+*.db
+
+# NetCDF data files (large files)
+*.nc
+
+# Pickle / AI vectors (optional: you can ignore if you want them in Git)
+argo_documents.pkl
+argo_vector_db.index
+
+# Other temporary files
+*.tmp
+*.bak
+*.swp
