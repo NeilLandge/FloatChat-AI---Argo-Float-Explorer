@@ -104,6 +104,8 @@ FloatChat ARGO/
 
 Here are some sample screenshots of the FloatChat ARGO dashboard and visualizations:
 
+📸 Screenshots
+
 ![Dashboard](screenshots/dashboard.png)
 ![RAG Assistant](screenshots/enhancedragassistant.png)
 ![Float Locations](screenshots/floatlocations.png)
