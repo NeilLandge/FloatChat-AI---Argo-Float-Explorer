@@ -45,25 +45,28 @@ ARGO Float Explorer is a comprehensive oceanographic data analysis and visualiza
 (install via `pip install <package>`)
 
 ### Installation & Setup
-1. Clone the repository:
 ```bash
+# Clone the repository:
 git clone https://github.com/NeilLandge/FloatChat-AI---Argo-Float-Explorer.git
 cd FloatChat-AI---Argo-Float-Explorer
+```
 
 ---
 
-2. Update your PostgreSQL credentials and Perplexity API key in ⚙️ Configuration/config.py.
+Update your PostgreSQL credentials and Perplexity API key in ⚙️ Configuration/config.py.
 
 ---
 
-3. Launch the Streamlit dashboard:
+Launch the Streamlit dashboard:
 ```bash
 streamlit run 🎨 Visualization\ &\ UI/dashboard.py
+```
 
 ---
 
-📁 Project Structure
+# 📁 Project Structure
 
+```
 FloatChat ARGO/
 ├── 📊 Data Processing
 │   ├── parser.py
@@ -99,8 +102,9 @@ FloatChat ARGO/
 │   └── tempandsalinityprofiles.png
 ├── README.md
 └── .gitignore
+```
 
-📸 Screenshots
+### 📸 Screenshots
 
 Here are some sample screenshots of the FloatChat ARGO dashboard and visualizations:
 
@@ -108,7 +112,9 @@ Here are some sample screenshots of the FloatChat ARGO dashboard and visualizati
 ![RAG Assistant](https://raw.githubusercontent.com/NeilLandge/FloatChat-AI---Argo-Float-Explorer/main/screenshots/enhancedragassistant.png)
 ![Float Locations](https://raw.githubusercontent.com/NeilLandge/FloatChat-AI---Argo-Float-Explorer/main/screenshots/floatlocations.png)
 
-🔧 Workflow
+---
+
+### 🔧 Workflow
 
 Data Ingestion: Parse .nc files and store in PostgreSQL.
 
@@ -120,7 +126,7 @@ Visualization: Auto-generate professional plots and trajectory maps.
 
 Interactive Delivery: Display results in chatbot and Streamlit dashboard.
 
-🎯 Highlights
+### 🎯 Highlights
 
 Conversational interface for oceanographic data exploration.
 
@@ -130,7 +136,7 @@ Fully integrated pipeline: parsing → database → AI → visualization.
 
 Requires Perplexity API key for AI-powered insights.
 
-🤝 Authors
+### 🤝 Authors
 
 Srinidhi Kulkarni
 
@@ -144,15 +150,15 @@ Shreya Ghuse
 
 Rohan Salunkhe
 
-📄 License
+### 📄 License
 
 This project is licensed under the MIT License.
 
-🌊 Repository Link
+### 🌊 Repository Link
 
 You can clone the project here:
 https://github.com/NeilLandge/FloatChat-AI---Argo-Float-Explorer
 
-🌊 Explore the oceans with AI
+### 🌊 Explore the oceans with AI
 
 FloatChat makes ARGO oceanographic data accessible through conversation and visualization.
