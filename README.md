@@ -107,6 +107,9 @@ Here are some sample screenshots of the FloatChat ARGO dashboard and visualizati
 ![Dashboard](screenshots/dashboard.png)
 ![RAG Assistant](screenshots/enhancedragassistant.png)
 ![Float Locations](screenshots/floatlocations.png)
+![Surface Temp Trends](screenshots/surfacetemptrends.png)
+![Temp & Salinity Profiles](screenshots/tempandsalinityprofiles.png)
+
 
 🔧 Workflow
 
